@@ -3,6 +3,7 @@
  * Profile Scroller
  * @version 1.0.0
  * @author Firooz Meysami
+ * firooz_meysami@yahoo.com
   */
 
 class RandomProfile{
